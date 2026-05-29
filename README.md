@@ -1,2 +1,2 @@
 # Estatística Bancária
-Projeto de análise no Google Colab com dataset disponibilizado pela Base dos Dados 
+Projeto de análise no Google Colab com dataset disponibilizado pelo Banco Central do Brasil
